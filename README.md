@@ -5,9 +5,9 @@
 
 ## Attribution
 
-This repository simply collects and compile official [**SPICE Toolkit C sources**](https://naif.jpl.nasa.gov/naif/toolkit_C.html) (version `N0066`) available to the public at [naif.jpl.nasa.gov](https://naif.jpl.nasa.gov) by Charles Acton, Nathaniel Bachman, Boris Semenov, Edward Wright, Maria Liukis, Fraser Thompson (see corresponding [Credit and References](https://naif.jpl.nasa.gov/naif/credit.html) for more).
+This repository simply collects and compile official [**SPICE Toolkit C sources**](https://naif.jpl.nasa.gov/naif/toolkit_C.html) (version N0066) available to the public at [**naif.jpl.nasa.gov**](https://naif.jpl.nasa.gov) maintained by Charles Acton, Nathaniel Bachman, Boris Semenov, Edward Wright, Maria Liukis and Fraser Thompson (see corresponding [Credit and References](https://naif.jpl.nasa.gov/naif/credit.html) for more).
 
-All the C source is wrapped up into a macOS Dynamic Library, (also has a C# source that bridges some subset of the library functionality).
+All the C source is wrapped up into a macOS Dynamic Library (with `bundle` extension), (also has a C# source that bridges some subset of the library functionality).
 
 ## License
 

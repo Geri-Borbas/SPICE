@@ -1,5 +1,5 @@
 ### Ignore Unity `meta` files ###
-.meta
+*.meta
 
 ### Include OSX plugin project ###
 !OSX~
