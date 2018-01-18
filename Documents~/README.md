@@ -4,11 +4,11 @@
 
 Some supplementary reference pages for SPICE data file types that can help you out, especially in early stage of learning.
 
-[![SPICE File types (summary)](https://github.com/eppz/SPICE/blob/master/Documents~/SPICE%20file%20types%20reference%20(summary).png)](https://github.com/eppz/SPICE/blob/master/Documents~/SPICE%20file%20types%20(summary).pdf)
+[![SPICE File types (summary)](https://github.com/eppz/SPICE/blob/master/Documents~/SPICE%20file%20types%20reference%20(summary).png)](https://github.com/eppz/SPICE/blob/master/Documents~/SPICE%20File%20types%20(summary).pdf)
 
 A more detailed summary with the actual file extensions.
 
-[![SPICE File types (summary)](https://github.com/eppz/SPICE/blob/master/Documents~/SPICE%20file%20types%20reference%20(detailed).png)](https://github.com/eppz/SPICE/blob/master/Documents~/SPICE%20file%20types%20(detailed).pdf)
+[![SPICE File types (summary)](https://github.com/eppz/SPICE/blob/master/Documents~/SPICE%20file%20types%20reference%20(detailed).png)](https://github.com/eppz/SPICE/blob/master/Documents~/SPICE%20File%20types%20(detailed).pdf)
 
 
 ## Attribution
