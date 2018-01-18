@@ -1,5 +1,6 @@
 ### Ignore Unity `meta` files ###
 *.meta
 
-### Include OSX plugin project ###
+### Include folders hidden from Unity ###
 !OSX~
+!Documents~
