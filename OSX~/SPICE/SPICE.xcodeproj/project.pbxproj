@@ -2212,21 +2212,22 @@
 		};
 		55D445872010307800A337C3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
+			buildActionMask = 12;
+			dstPath = /usr/share/SPICE;
 			dstSubfolderSpec = 0;
 			files = (
 			);
-			runOnlyForDeploymentPostprocessing = 1;
+			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5545701F20105AFA0031DE63 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		55B9A365200FABD600C8D47F /* SPICE.bundle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = SPICE.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		55B9A36C200FAC8E00C8D47F /* HelloWorld.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = HelloWorld.c; sourceTree = "<group>"; wrapsLines = 0; };
 		55B9A36D200FAC8E00C8D47F /* HelloWorld.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorld.h; sourceTree = "<group>"; wrapsLines = 0; };
 		55D445892010307800A337C3 /* SPICE_Sandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SPICE_Sandbox; sourceTree = BUILT_PRODUCTS_DIR; };
-		55D4458B2010307A00A337C3 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		55D4458B2010307A00A337C3 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; wrapsLines = 0; };
 		55D445942010508200A337C3 /* f2c.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = f2c.h; sourceTree = "<group>"; };
 		55D445952010508200A337C3 /* f2cMang.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = f2cMang.h; sourceTree = "<group>"; };
 		55D445962010508200A337C3 /* fio.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = fio.h; sourceTree = "<group>"; };
@@ -4508,6 +4509,7 @@
 		55D44590201033BC00A337C3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5545701F20105AFA0031DE63 /* CoreFoundation.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
